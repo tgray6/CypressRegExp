@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "lib": ["es5", "dom"],
+    "types": ["cypress", "node"],
+    // "resolveJsonModule": true,
+    "downlevelIteration": true
+  },
+  "include": ["**/*.ts"]
+}
